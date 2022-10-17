@@ -3,25 +3,20 @@
     background-image: url(images-coco/coco.jpg);
     width: 1200px;
 }
-body {
-    background-image: url(images-coco/coco.jpg);
-    width: 1200px;
-    margin: 50px;
-    border: 50px;
-}
+
 .smallbox {
     position: relative;
     float: right;
-    margin-right: -100px;
-    margin-top: 100px;
+    margin-right: 20px;
+    margin-top: 140px;
     color: white;
     font-family: 'Abel', sans-serif;
 }
 .smallbox img {
-    width: 400px;
-    height: 200px;
+    width: 350px;
+    height: 150px;
     display:flex;
-    margin-left: 56px;
+    margin-left: 135px;
 }
 button {
     background-color: orange;
@@ -40,5 +35,6 @@ a:visited {
     color: white;
 }
 p {
-    margin: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
